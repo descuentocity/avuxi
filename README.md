@@ -2,7 +2,7 @@
 ### install
 
 ```
-npm i --save avuxi/vue-avapi
+npm i --save descuentocity/avuxi
 ```
 
 ### usage
