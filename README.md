@@ -9,9 +9,9 @@ npm i --save descuentocity/avuxi
 
 ```js
 import Vue from 'vue'
-import vueAvapi from 'vue-avapi'
+import avuxi from 'avuxi'
 
-Vue.use(vueAvapi)
+Vue.use(avuxi)
 ```
 
 ```html
