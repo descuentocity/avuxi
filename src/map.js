@@ -1,5 +1,5 @@
 export default {
-  name: 'avapiMap',
+  name: 'avuxiMap',
   props: ['confId', 'lat', 'lng', 'zoom'],
   template: `<div class='vxmap'></div>`,
   

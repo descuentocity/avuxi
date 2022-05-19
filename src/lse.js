@@ -1,5 +1,5 @@
 export default {
-  name: 'avapiLse',
+  name: 'avuxiLse',
   props: ['confId', 'lat', 'lng'],
   template: `
     <div class='vxlse'>
